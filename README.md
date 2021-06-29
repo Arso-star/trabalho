@@ -1,3 +1,3 @@
 # FACULDADE DE PETROLINA (FACAPE)
 
-# Equipe: Ariel Rodrigues
+## Equipe: Ariel Rodrigues
