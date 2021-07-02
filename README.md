@@ -28,13 +28,6 @@
   <li>Porta ServidorEspecialista: 50997</li>
 </ul>
 
-<li> Composto por 3 componentes:</li>
-<ul>
-  <li>src/main/java/Webservice</li>
-  <li>src/main/java/ServidorBasico</li>
-  <li>src/main/java/ServidorEspecialista</li>
-</ul>
-
 <h3>A execução</h3>
-<p>A calculadora RMI consegue executar um webservice com dois servidores ServidorBasico e ServidorEspecialista. Juntos com as interfaces e os implementos
+<p>A calculadora RMI consegue executar um webservice com dois servidores (ServidorBasico e ServidorEspecialista). Juntos com as interfaces e os implementos
 das classes para a execução. O Library envia as portas dos servidores especialistas para o webservice que vai utilizar a rota para a porta 8000. Os servidores especialistas transmitem as mensagens para o webservice e são enviados ao post para realizar as operações matemáticas utilizando os dois números.</p>
